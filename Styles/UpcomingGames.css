@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 .upcoming {
   background: linear-gradient(120deg, #052064, #7b001d);
   border: 1px solid;
@@ -11,7 +12,7 @@ main {
   border: 1px solid;
   width: 1000px;
   height: auto;
-  margin-left: 300px;
+  margin-left: 450px;
   margin-bottom: 100px;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
 }
@@ -87,7 +88,7 @@ a {
   background: linear-gradient(190deg, #062a84, #970829);
   border: 1px solid;
   text-align: center;
-  left: 1330px;
+  right: 2%;
   top: 10px;
   z-index: 500;
   font-size: 15px;
